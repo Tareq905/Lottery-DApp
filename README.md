@@ -40,5 +40,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or support, please contact [Your Name](mailto:tareqshah.027@gmail.com).
+For inquiries or support, please contact [Md Tareq Shah Alam](mailto:tareqshah.027@gmail.com).
 
