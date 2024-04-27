@@ -6,9 +6,9 @@ This repository hosts a decentralized application (DApp) developed using React.j
 
 ## Features
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- Multiple id can perform the operation.
+- Then user can find the winner
+
 
 ## Technologies Used
 
